@@ -5,9 +5,8 @@
 ## 📌 Changelog
 
 * **Always On Display (AOD) Fix:** Removed the bug causing a transition to the "4th mode," which stripped colors and distorted the interface. AOD now works properly.
-* **Screen Recording Reboot Fix:** Fixed the critical crash that caused the entire system to reboot when attempting to record the screen.
-
-> ⚠️ **Note:** Actual screen capture isn't functional yet, but the system no longer crashes into a reboot loop.
+* **Screen Recording Reboot Fix:** Fixed the critical crash that caused the entire system to reboot when attempting to record/stream the screen.
+* 
 
 ## 🔧 Prerequisites & Requirements
 
