@@ -22,9 +22,9 @@
 
 ## 🧪 Release Status
 
-This project is currently finished.
+All planned features are **complete and working**. 
 
-If you encounter any bugs, have improvement ideas, or recommendations, feel free to **DM me**. Feedback is greatly appreciated!
+The project is in **stable release**. If you encounter any bugs, have improvement ideas, or recommendations, feel free to **DM me**.
 
 ## 📥 Download
 
