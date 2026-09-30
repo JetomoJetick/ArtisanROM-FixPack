@@ -22,7 +22,7 @@
 
 ## 🧪 Release Status
 
-This project is currently in **public beta testing**.
+This project is currently finished.
 
 If you encounter any bugs, have improvement ideas, or recommendations, feel free to **DM me**. Feedback is greatly appreciated!
 
